@@ -1,0 +1,7 @@
+name: "${project.name}"
+author: "${author}"
+website: "${project.url}"
+description: "${project.description}"
+version: "${version}"
+api-version: "1.20"
+depend: [${dependencies}]
