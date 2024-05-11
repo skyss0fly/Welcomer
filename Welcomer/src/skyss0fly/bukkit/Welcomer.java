@@ -1,4 +1,4 @@
-package skyss0fly.Welcomer;
+package skyss0fly.bukkit.Welcomer;
 
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
